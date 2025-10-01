@@ -1,0 +1,1 @@
+I had worked on making my own to-do list app from scratch, but I replaced it with the tutorial's code
